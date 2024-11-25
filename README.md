@@ -1,4 +1,4 @@
-# KevFernandez.github.io
+# Solarblind.github.io
 
             
  
@@ -16,8 +16,6 @@ SOLARBLIND
 Este proyecto tiene como propósito diseñar e implementar un sistema automatizado para cortinas que se ajuste automáticamente en función de la intensidad de la luz solar. La idea central es combinar tecnologías modernas para ofrecer una solución que mejore el confort, la eficiencia energética y la comodidad del usuario en espacios interiores. Al integrar un sensor de luz, motores controlados electrónicamente y un sistema de iluminación inteligente, el proyecto busca optimizar el uso de la luz natural y reducir la dependencia de iluminación artificial, contribuyendo a un entorno más sostenible. 
 
 _____________________________________________________________ 
-
- 
 
 Índice 
 
@@ -73,9 +71,11 @@ _____________________________________________________________
 
                   
 
- 
+                  
 
  
+
+ KKKKKKKKKKKKKKKKKKKKKKK
 
 ¿Qué es nuestro sistema de cortina automática? 
 
