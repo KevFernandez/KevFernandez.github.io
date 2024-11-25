@@ -75,7 +75,7 @@ _____________________________________________________________
 
  
 
- KKKKKKKKKKKKKKKKKKKKKKK
+ 
 
 ¿Qué es nuestro sistema de cortina automática? 
 
