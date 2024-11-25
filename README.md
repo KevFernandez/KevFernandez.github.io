@@ -207,5 +207,10 @@ Estructura del Código
 
 Resumen del Funcionamiento 
 
-El código asegura que la cortina se ajuste automáticamente según la luz ambiental. Cuando la luz es intensa, el motor baja la cortina, mientras que con luz media o baja, la sube. Si hay poca o ninguna luz, el sistema permanece inactivo. Este enfoque garantiza un control preciso y eficiente del sistema, manteniendo el confort del usuario y optimizando el uso de la luz natural. 
+El código asegura que la cortina se ajuste automáticamente según la luz ambiental. Cuando la luz es intensa, el motor baja la cortina, mientras que con luz media o baja, la sube. Si hay poca o ninguna luz, el sistema permanece inactivo. Este enfoque garantiza un control preciso y eficiente del sistema, manteniendo el confort del usuario y optimizando el uso de la luz natural.
+
+
+
+Para una mejor compresion sobre el proyecto y mas detalles, vea el informe: https://1drv.ms/w/c/1932053eef63a93c/Ebu6riy_m1BIn4NgJ0UpTIEBI0y9N_kefNDLcnmnN6Dk8Q?e=qetHAG
+
  
